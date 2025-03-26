@@ -17,5 +17,5 @@ A Java application for managing books in a digital library system.
 ## Setup and Running
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/digital-library.git
-   cd digital-library
+   git clone https://github.com/yourusername/Digital-Library.git
+   cd Digital-Library
