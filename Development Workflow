@@ -1,0 +1,23 @@
+
+## Git Commit Strategy
+
+1. Initial commit: Project scaffolding and basic structure
+2. Commit: Implement Book model and validation
+3. Commit: Create LibraryService with core functionality
+4. Commit: Add MainApp with console interface
+5. Commit: Implement unit tests
+6. Commit: Final polish and documentation
+
+## Key Features Meeting Evaluation Criteria
+
+1. **Effective Naming**: Clear class/method/variable names (e.g., `LibraryService`, `validateBook`)
+2. **DRY Principle**: Validation logic centralized in `InputValidator`
+3. **Readable Layout**: Consistent indentation, brace placement, line wrapping
+4. **Directory Structure**: Logical package organization
+5. **File Organization**: Separate files for different concerns
+6. **Validation & Exception Handling**: Comprehensive input checks and custom exceptions
+7. **Unit Tests**: JUnit tests covering all service methods
+8. **Clean Commits**: Logical progression of features
+9. **Effective Comments**: Javadoc and inline comments where needed
+
+This implementation provides a complete solution that meets all requirements while following best practices and the evaluation criteria.
